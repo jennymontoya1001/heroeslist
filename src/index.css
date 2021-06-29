@@ -1,0 +1,47 @@
+.hero img{
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.hero{
+  align-items: center;
+  background-color: black;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+  padding: 5px;
+  display: inline-flex;
+  width: 8rem;
+  box-sizing: content-box;
+  color: whitesmoke;
+  height: 250px;
+  margin: 2px;
+ 
+}
+
+.hero p{
+  padding: 5px;
+  text-align: center;
+  line-height: 20px;
+}
+
+
+
+
+body{
+  padding: 20px;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+
+.modal-body{
+  color: black;
+}
+
+.view{
+  color: white;
+}
